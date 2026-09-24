@@ -1,0 +1,32 @@
+[
+    {
+        "id": "A101",
+        "name": "HR-PC-01",
+        "type": "Workstation",
+        "ip": "192.168.1.10",
+        "os": "Windows 11",
+        "department": "HR",
+        "risk": "Medium",
+        "status": "Secure"
+    },
+    {
+        "id": "A102",
+        "name": "Web-Server",
+        "type": "Server",
+        "ip": "192.168.1.20",
+        "os": "Ubuntu",
+        "department": "IT",
+        "risk": "Critical",
+        "status": "Vulnerable"
+    },
+    {
+        "id": "A103",
+        "name": "Core-Router",
+        "type": "Router",
+        "ip": "192.168.1.1",
+        "os": "Cisco IOS",
+        "department": "Network",
+        "risk": "High",
+        "status": "Warning"
+    }
+]
